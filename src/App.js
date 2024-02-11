@@ -9,6 +9,9 @@ function App() {
         <p>
           Dave was here, and he is a great guy.
         </p>
+        <p>
+          Catherine was here, and she kind of sucks.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
