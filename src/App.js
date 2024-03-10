@@ -1,4 +1,5 @@
-import Dashboard from "./components/Dashboard";
+import React from 'react';
+import Home from './components/Home';
 import { createTheme, ThemeProvider } from "@mui/material";
 import CssBaseline from '@mui/material/CssBaseline';
 
@@ -12,7 +13,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <Dashboard />
+        <Home />
     </ThemeProvider>
   );
 }
