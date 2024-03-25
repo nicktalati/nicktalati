@@ -6,7 +6,7 @@ function Home() {
         <Box sx={{ p: 3 }}>
             <Typography variant="h4" gutterBottom>Welcome to nicktalati.com</Typography>
             <Typography variant="p" gutterBottom>
-                Did you know that Will Tenpas is gay?
+                TODO: Make website
             </Typography>
         </Box>
     );
